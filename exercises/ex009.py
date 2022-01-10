@@ -1,1 +1,1 @@
-# programa que leia um número inteiro e mostre sua tabuada
+# programa que leia um número inteiro e mostre sua tabuada.
