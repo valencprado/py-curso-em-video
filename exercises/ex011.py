@@ -12,3 +12,12 @@ print('Serão necessários {} litros de tinta'.format(tinta))
 
 # deu certo 🥳 código antes da aula do exercício
 
+# correção do guanabara
+
+# larg = float(input('Largura da parede: '))
+# alt = float(input('Altura da parede: '))
+# área = larg * alt
+# print('Sua parede tem a dimensão de {}x{} é de {}m .'.format(lar, alt, área))
+# tinta = área / 2
+# print('Para pintar essa parede, você precisará de {}l de tinta.'.format(tinta))
+
