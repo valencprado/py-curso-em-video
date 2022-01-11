@@ -2,9 +2,14 @@
 # salário antigo + 15%
 
 salario = float(input('Digite seu salário: '))
-aumento = (salario * 10) / 100
+aumento = (salario * 15) / 100
 salario_novo = salario + aumento
-
-print('Parabéns! agora seu salário é de: R${}'.format(salario_novo))
+# ou salario_novo = salario + (salario * 15 / 100)
+print('Parabéns! agora seu salário é de: R${:.2f}'.format(salario_novo))
 
 # deu certo 🥳 (feito antes da aula)
+
+# correção do guanabara
+# salário = float(input('Qual é o salário do funcionário? R$'))
+# novo = salario + (salario * 15 / 100)
+# print('Um funcionário que ganhava R${:.2f}, com 15% de aumento, passa a receber R${:.2f}'.format(salário, novo))
