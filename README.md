@@ -10,6 +10,7 @@ Nesse repositório, serão postados os exercícios feitos ao longo do módulo 1 
 - Testes de tipo
 - Tipos primitivos
 - Introdução à linguagem
+- Módulos e Bibliotecas
 
 
 
