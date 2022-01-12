@@ -1,0 +1,1 @@
+# Programa que leia um número real qualquer e mostre sua porção inteira.
