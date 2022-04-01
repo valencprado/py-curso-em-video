@@ -49,7 +49,7 @@ print(frase.title())
 # tira espaços inúteis do início e do fim
 print(frase.strip())
 
-# r: começa pela direita e l: pela direita
+# r: começa pela direita e l: pela esquerda
 print(frase.rstrip())
 print(frase.lstrip())
 
