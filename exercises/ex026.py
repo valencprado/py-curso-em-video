@@ -6,8 +6,8 @@ frase = input("Digite uma frase: ")
 contagem = frase.count("a")
 primeiro = frase.find("a")
 ultimo = frase.rfind("a")
-print("Quantas letras a:".format(contagem))
-print("Posição da primeira:".format(primeiro))
-print("Posição da última: ".format(ultimo))
+print("Quantas letras a: {}".format(contagem))
+print("Posição da primeira: {}".format(primeiro))
+print("Posição da última: {}".format(ultimo))
 
 # funcionando!
